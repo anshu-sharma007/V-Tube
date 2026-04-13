@@ -16,25 +16,7 @@ Before you begin, ensure you have met the following requirements:
 - Node.js installed
 - RapidAPI YouTube API key (get one [here](https://rapidapi.com/omarmhaimdat/api/youtube-v2/))
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/panditvishnuu/YouTube-Clone.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd Youtube-Clone
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
 
 ## Configuration
 
